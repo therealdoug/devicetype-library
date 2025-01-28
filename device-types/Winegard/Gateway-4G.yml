@@ -14,7 +14,7 @@ interfaces:
     label: Red - WiFi
   - name: eth0
     type: 1000base-t
-    label: Ethernet - LAN/WAN
+    label: 'Ethernet LAN/WAN'
   - name: ant4
     type: lte
     label: Yellow - 4G/LTE
