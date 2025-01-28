@@ -3,7 +3,7 @@ manufacturer: Winegard
 model: Gateway 5G
 slug: winegard-gateway-5g
 part_number: GW-5G01
-u_height: 0
+u_height: 1
 is_full_depth: false
 weight: 1.0
 weight_unit: lb
