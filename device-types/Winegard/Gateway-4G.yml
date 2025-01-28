@@ -5,6 +5,13 @@ slug: winegard-gateway-4g
 part_number: GW-1000
 u_height: 1
 is_full_depth: false
+comments: |
+  [Winegard Gateway 4G](https://winegard.com/gateway/)  
+  Wireless Standard: 802.11ac  
+  LTE Bands: : B2, B4, B5, B12, B13, B14, B66, B71  
+  Wireless Speeds: 2.4Ghz: 450Mbps; 5Ghz: 1300Mbps  
+  Dual SIM Card: Mini SIM (2FF)  
+  Dimensions: 8.13"l x 8.13"w x 1.68"d  
 power-port:
   - name: 12vdc
     type: dc-terminal
