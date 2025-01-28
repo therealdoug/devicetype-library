@@ -9,7 +9,7 @@ is_full_depth: false
 weight: 0.5
 weight_unit: kg
 airflow: passive
-power-ports:
+power-port:
   - name: PSU1
     type: dc-terminal
     maximum_draw: 23
